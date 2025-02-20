@@ -5,3 +5,9 @@ Answer: I consider using Git because Git is the best.
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data Science can be applied to healthcare field.
+
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merge is able to create a new commit and combines the contents of two branches. Rebasing moves the commits of a branch on top of another.
+
